@@ -1,6 +1,6 @@
 {
   "name": "documentation-flat-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Flat Theme for documentation.js",
   "main": "lib/index.js",
   "author": "Mathieu Andrade",
