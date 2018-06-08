@@ -10,8 +10,8 @@
 }
 
 .border-hover a:hover  {
-  border-style:solid;
-  border-width: 1px;
+  background-color:#3b4246;
+  border-radius: unset;
 }
 
 .light-grey {
